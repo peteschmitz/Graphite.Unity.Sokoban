@@ -1,4 +1,4 @@
-/[Ll]ibrary/
+/[Ll]ibrary/*
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -32,3 +32,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Include last scene
+!/[Ll]ibrary/LastSceneManagerSetup.txt

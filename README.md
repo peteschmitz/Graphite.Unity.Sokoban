@@ -1,6 +1,6 @@
 # Warehouse Dash - Sokoban
 
-![alt text](Graphite.Unity.Sokoban\Sokoban.UnityClient\Assets\Resources\Images\app_marketIos-1024.png "Logo Splash")
+![alt text](Screenshots/banner.png "Warehouse Dash - Sokoban")
 
 
 ## About
@@ -10,7 +10,7 @@ This repository contains source code for a Unity game influenced by the game "So
 * [Google Play (Android Phone, TV)](https://play.google.com/store/apps/details?id=gg.graphite.sokoban)
 * [Apple App Store](https://apps.apple.com/us/app/warehouse-dash/id1471253538?ls=1)
 
-Note: Sound effects are empty placeholders due to distribution restrictions.
+Note: Sound effects in this repository are empty placeholders due to distribution restrictions.
 
 
 ## Noteworthy Features
@@ -29,9 +29,10 @@ Note: Sound effects are empty placeholders due to distribution restrictions.
 ## Install
 
 * Requires Unity 2019.1.9f1
-* Clone and open the project in Unity
-* Open the services panel and add a Project ID (to resolve ads/purchasing compile errors)
-* Restart the editor
+* Clone and open the "Sokoban.UnityClient" folder in Unity
+* Open the services panel and add a Project ID
+* Enable "Ads" service (make sure to "Continue" past COPPA compliance)
+* Restart the editor (to force recompile and resolve ads/purchasing errors)
 
 ## Scenes
 
