@@ -1,0 +1,136 @@
+{
+  "buildItems": [
+    {
+      "column": 0,
+      "row": 6,
+      "itemType": "Player"
+    },
+    {
+      "column": 1,
+      "row": 1,
+      "boxType": 1
+    },
+    {
+      "column": 1,
+      "row": 4,
+      "boxType": 1
+    },
+    {
+      "column": 2,
+      "row": 1,
+      "markerType": 1
+    },
+    {
+      "column": 2,
+      "row": 3,
+      "markerType": 1
+    },
+    {
+      "column": 2,
+      "row": 4,
+      "markerType": 1
+    },
+    {
+      "column": 2,
+      "row": 5,
+      "boxType": 1
+    }
+  ],
+  "missingGround": [
+    {
+      "x": 1,
+      "y": 0
+    },
+    {
+      "x": 1,
+      "y": 2
+    },
+    {
+      "x": 1,
+      "y": 3
+    },
+    {
+      "x": 1,
+      "y": 5
+    },
+    {
+      "x": 2,
+      "y": 0
+    },
+    {
+      "x": 2,
+      "y": 2
+    }
+  ],
+  "columns": 3,
+  "rows": 7,
+  "sourceType": 0,
+  "authorDeviceIdentifier": "84cdace88b40264d699fe5524840b0018ba611e8",
+  "completionMovementHistory": [
+    {
+      "movementType": 1,
+      "timeMs": 495
+    },
+    {
+      "movementType": 1,
+      "timeMs": 762
+    },
+    {
+      "movementType": 0,
+      "timeMs": 927
+    },
+    {
+      "movementType": 0,
+      "timeMs": 1097
+    },
+    {
+      "movementType": 2,
+      "timeMs": 1423
+    },
+    {
+      "movementType": 2,
+      "timeMs": 1591
+    },
+    {
+      "movementType": 3,
+      "timeMs": 1966
+    },
+    {
+      "movementType": 3,
+      "timeMs": 2234
+    },
+    {
+      "movementType": 0,
+      "timeMs": 2423
+    },
+    {
+      "movementType": 0,
+      "timeMs": 2914
+    },
+    {
+      "movementType": 1,
+      "timeMs": 3217
+    },
+    {
+      "movementType": 3,
+      "timeMs": 3634
+    },
+    {
+      "movementType": 0,
+      "timeMs": 3869
+    },
+    {
+      "movementType": 0,
+      "timeMs": 4034
+    },
+    {
+      "movementType": 0,
+      "timeMs": 4527
+    },
+    {
+      "movementType": 1,
+      "timeMs": 4827
+    }
+  ],
+  "localIdentifier": "10d11a9d-6346-41fe-a595-2f366992c523"
+}

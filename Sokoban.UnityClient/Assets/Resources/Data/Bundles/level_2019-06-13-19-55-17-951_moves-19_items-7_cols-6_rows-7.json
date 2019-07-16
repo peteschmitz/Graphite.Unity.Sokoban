@@ -1,0 +1,182 @@
+{
+  "levelData": {
+    "buildItems": [
+      {
+        "column": 1,
+        "row": 1,
+        "markerType": 1
+      },
+      {
+        "column": 1,
+        "row": 4,
+        "itemType": "Player"
+      },
+      {
+        "column": 2,
+        "row": 2,
+        "boxType": 1
+      },
+      {
+        "column": 3,
+        "row": 2,
+        "boxType": 1
+      },
+      {
+        "column": 3,
+        "row": 3,
+        "boxType": 1
+      },
+      {
+        "column": 4,
+        "row": 1,
+        "markerType": 1
+      },
+      {
+        "column": 4,
+        "row": 5,
+        "markerType": 1
+      }
+    ],
+    "missingGround": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 0,
+        "y": 5
+      },
+      {
+        "x": 0,
+        "y": 6
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 6
+      },
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 4,
+        "y": 6
+      },
+      {
+        "x": 5,
+        "y": 0
+      },
+      {
+        "x": 5,
+        "y": 1
+      },
+      {
+        "x": 5,
+        "y": 5
+      },
+      {
+        "x": 5,
+        "y": 6
+      }
+    ],
+    "columns": 6,
+    "rows": 7,
+    "sourceType": 0,
+    "authorDeviceIdentifier": "84cdace88b40264d699fe5524840b0018ba611e8",
+    "localIdentifier": "1f243e09-7a11-4ec0-85cd-5711b817fa17"
+  },
+  "levelMetaData": {
+    "createdAtDate": "2019-06-13T19:55:03.511545-07:00",
+    "lastPlayedDate": "2019-06-13T19:55:13.310702-07:00",
+    "bestCompletionMs": 8746,
+    "bestCompletionDate": "2019-06-13T19:55:13.310702-07:00",
+    "firstCompletionDate": "2019-06-13T19:55:13.310702-07:00",
+    "completionMovementHistory": [
+      {
+        "movementType": 1,
+        "timeMs": 1501
+      },
+      {
+        "movementType": 0,
+        "timeMs": 1900
+      },
+      {
+        "movementType": 0,
+        "timeMs": 2442
+      },
+      {
+        "movementType": 1,
+        "timeMs": 2817
+      },
+      {
+        "movementType": 0,
+        "timeMs": 3308
+      },
+      {
+        "movementType": 3,
+        "timeMs": 3954
+      },
+      {
+        "movementType": 1,
+        "timeMs": 4365
+      },
+      {
+        "movementType": 2,
+        "timeMs": 4683
+      },
+      {
+        "movementType": 2,
+        "timeMs": 4848
+      },
+      {
+        "movementType": 1,
+        "timeMs": 5665
+      },
+      {
+        "movementType": 0,
+        "timeMs": 5928
+      },
+      {
+        "movementType": 3,
+        "timeMs": 6641
+      },
+      {
+        "movementType": 3,
+        "timeMs": 6898
+      },
+      {
+        "movementType": 2,
+        "timeMs": 7119
+      },
+      {
+        "movementType": 2,
+        "timeMs": 7282
+      },
+      {
+        "movementType": 1,
+        "timeMs": 7687
+      },
+      {
+        "movementType": 0,
+        "timeMs": 8056
+      },
+      {
+        "movementType": 1,
+        "timeMs": 8375
+      },
+      {
+        "movementType": 2,
+        "timeMs": 8746
+      }
+    ],
+    "localIdentifier": "1f243e09-7a11-4ec0-85cd-5711b817fa17"
+  }
+}

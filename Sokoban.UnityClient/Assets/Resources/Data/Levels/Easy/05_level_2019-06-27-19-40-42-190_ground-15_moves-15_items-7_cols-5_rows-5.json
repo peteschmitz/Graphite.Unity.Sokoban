@@ -1,0 +1,148 @@
+{
+  "buildItems": [
+    {
+      "column": 0,
+      "row": 1,
+      "boxType": 1
+    },
+    {
+      "column": 0,
+      "row": 2,
+      "markerType": 1
+    },
+    {
+      "column": 2,
+      "row": 4,
+      "itemType": "Player"
+    },
+    {
+      "column": 3,
+      "row": 1,
+      "markerType": 1
+    },
+    {
+      "column": 3,
+      "row": 2,
+      "boxType": 1
+    },
+    {
+      "column": 3,
+      "row": 3,
+      "boxType": 1
+    },
+    {
+      "column": 4,
+      "row": 2,
+      "markerType": 1
+    }
+  ],
+  "missingGround": [
+    {
+      "x": 0,
+      "y": 3
+    },
+    {
+      "x": 0,
+      "y": 4
+    },
+    {
+      "x": 1,
+      "y": 1
+    },
+    {
+      "x": 1,
+      "y": 3
+    },
+    {
+      "x": 1,
+      "y": 4
+    },
+    {
+      "x": 3,
+      "y": 0
+    },
+    {
+      "x": 4,
+      "y": 0
+    },
+    {
+      "x": 4,
+      "y": 1
+    },
+    {
+      "x": 4,
+      "y": 3
+    },
+    {
+      "x": 4,
+      "y": 4
+    }
+  ],
+  "columns": 5,
+  "rows": 5,
+  "sourceType": 0,
+  "authorDeviceIdentifier": "84cdace88b40264d699fe5524840b0018ba611e8",
+  "completionMovementHistory": [
+    {
+      "movementType": 0,
+      "timeMs": 540
+    },
+    {
+      "movementType": 0,
+      "timeMs": 851
+    },
+    {
+      "movementType": 1,
+      "timeMs": 1414
+    },
+    {
+      "movementType": 3,
+      "timeMs": 1889
+    },
+    {
+      "movementType": 2,
+      "timeMs": 2899
+    },
+    {
+      "movementType": 2,
+      "timeMs": 3380
+    },
+    {
+      "movementType": 1,
+      "timeMs": 3806
+    },
+    {
+      "movementType": 0,
+      "timeMs": 4033
+    },
+    {
+      "movementType": 0,
+      "timeMs": 4527
+    },
+    {
+      "movementType": 3,
+      "timeMs": 5061
+    },
+    {
+      "movementType": 0,
+      "timeMs": 5692
+    },
+    {
+      "movementType": 0,
+      "timeMs": 5989
+    },
+    {
+      "movementType": 3,
+      "timeMs": 6379
+    },
+    {
+      "movementType": 3,
+      "timeMs": 6674
+    },
+    {
+      "movementType": 2,
+      "timeMs": 6943
+    }
+  ],
+  "localIdentifier": "be7964c7-a452-4cc0-81dc-cee7d4612e6d"
+}

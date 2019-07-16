@@ -1,0 +1,75 @@
+{
+    "appleSKU": "warehousedash",
+    "appleTeamID": "0000000000",
+    "enableCodelessAutoInitialization": true,
+    "products": [
+        {
+            "id": "level_pak_1",
+            "type": 1,
+            "storeIDs": [],
+            "defaultDescription": {
+                "googleLocale": 4,
+                "title": "Level Pack",
+                "description": "30 Additional Levels"
+            },
+            "screenshotPath": "",
+            "applePriceTier": 0,
+            "xiaomiPriceTier": 0,
+            "googlePrice": {
+                "data": [
+                    99,
+                    0,
+                    0,
+                    131072
+                ],
+                "num": 0.99
+            },
+            "pricingTemplateID": "",
+            "descriptions": [],
+            "udpPrice": {
+                "data": [
+                    99,
+                    0,
+                    0,
+                    131072
+                ],
+                "num": 0.99
+            },
+            "payouts": []
+        },
+        {
+            "id": "remove_ads",
+            "type": 1,
+            "storeIDs": [],
+            "defaultDescription": {
+                "googleLocale": 4,
+                "title": "Ad-free Upgrade",
+                "description": "Remove all ads permanently from Warehouse Dash!"
+            },
+            "screenshotPath": "",
+            "applePriceTier": 0,
+            "xiaomiPriceTier": 0,
+            "googlePrice": {
+                "data": [
+                    99,
+                    0,
+                    0,
+                    131072
+                ],
+                "num": 0.99
+            },
+            "pricingTemplateID": "",
+            "descriptions": [],
+            "udpPrice": {
+                "data": [
+                    99,
+                    0,
+                    0,
+                    131072
+                ],
+                "num": 0.99
+            },
+            "payouts": []
+        }
+    ]
+}

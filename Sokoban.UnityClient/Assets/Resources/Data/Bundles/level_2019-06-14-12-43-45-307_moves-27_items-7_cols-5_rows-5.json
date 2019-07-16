@@ -1,0 +1,182 @@
+{
+  "levelData": {
+    "buildItems": [
+      {
+        "column": 1,
+        "row": 1,
+        "boxType": 1
+      },
+      {
+        "column": 1,
+        "row": 2,
+        "boxType": 2
+      },
+      {
+        "column": 1,
+        "row": 3,
+        "markerType": 1
+      },
+      {
+        "column": 2,
+        "row": 2,
+        "itemType": "Player"
+      },
+      {
+        "column": 2,
+        "row": 4,
+        "markerType": 1
+      },
+      {
+        "column": 3,
+        "row": 1,
+        "boxType": 1
+      },
+      {
+        "column": 3,
+        "row": 2,
+        "boxType": 2
+      }
+    ],
+    "missingGround": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 4
+      },
+      {
+        "x": 4,
+        "y": 0
+      },
+      {
+        "x": 4,
+        "y": 4
+      }
+    ],
+    "columns": 5,
+    "rows": 5,
+    "sourceType": 0,
+    "authorDeviceIdentifier": "84cdace88b40264d699fe5524840b0018ba611e8",
+    "localIdentifier": "26d68628-b116-4064-b054-070a33bf5965"
+  },
+  "levelMetaData": {
+    "createdAtDate": "2019-06-14T12:43:29.7087989-07:00",
+    "lastPlayedDate": "2019-06-14T12:43:42.5739742-07:00",
+    "bestCompletionMs": 11397,
+    "bestCompletionDate": "2019-06-14T12:43:42.5739742-07:00",
+    "firstCompletionDate": "2019-06-14T12:43:42.5739742-07:00",
+    "completionMovementHistory": [
+      {
+        "movementType": 2,
+        "timeMs": 4109
+      },
+      {
+        "movementType": 1,
+        "timeMs": 4367
+      },
+      {
+        "movementType": 1,
+        "timeMs": 4991
+      },
+      {
+        "movementType": 0,
+        "timeMs": 5157
+      },
+      {
+        "movementType": 0,
+        "timeMs": 5327
+      },
+      {
+        "movementType": 3,
+        "timeMs": 5642
+      },
+      {
+        "movementType": 0,
+        "timeMs": 5848
+      },
+      {
+        "movementType": 3,
+        "timeMs": 6156
+      },
+      {
+        "movementType": 2,
+        "timeMs": 6383
+      },
+      {
+        "movementType": 2,
+        "timeMs": 6546
+      },
+      {
+        "movementType": 2,
+        "timeMs": 6713
+      },
+      {
+        "movementType": 3,
+        "timeMs": 7268
+      },
+      {
+        "movementType": 3,
+        "timeMs": 7528
+      },
+      {
+        "movementType": 0,
+        "timeMs": 7774
+      },
+      {
+        "movementType": 0,
+        "timeMs": 7942
+      },
+      {
+        "movementType": 1,
+        "timeMs": 8241
+      },
+      {
+        "movementType": 0,
+        "timeMs": 8421
+      },
+      {
+        "movementType": 1,
+        "timeMs": 8688
+      },
+      {
+        "movementType": 2,
+        "timeMs": 8967
+      },
+      {
+        "movementType": 2,
+        "timeMs": 9485
+      },
+      {
+        "movementType": 0,
+        "timeMs": 9784
+      },
+      {
+        "movementType": 1,
+        "timeMs": 10037
+      },
+      {
+        "movementType": 1,
+        "timeMs": 10294
+      },
+      {
+        "movementType": 2,
+        "timeMs": 10459
+      },
+      {
+        "movementType": 2,
+        "timeMs": 10845
+      },
+      {
+        "movementType": 3,
+        "timeMs": 11145
+      },
+      {
+        "movementType": 3,
+        "timeMs": 11397
+      }
+    ],
+    "localIdentifier": "26d68628-b116-4064-b054-070a33bf5965"
+  }
+}

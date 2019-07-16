@@ -1,0 +1,124 @@
+{
+    "lookup": [
+        [
+            "Title",
+            ""
+        ],
+        [
+            "Menu",
+            "Main Menu"
+        ],
+        [
+            "Play",
+            "Play"
+        ],
+        [
+            "Create",
+            "Create"
+        ],
+        [
+            "MoreLevels",
+            "More Levels"
+        ],
+        [
+            "Okay",
+            "Okay"
+        ],
+        [
+            "Close",
+            "Close"
+        ],
+        [
+            "Easy",
+            "Easy"
+        ],
+        [
+            "Medium",
+            "Medium"
+        ],
+        [
+            "Hard",
+            "Hard"
+        ],
+        [
+            "Continue",
+            "Continue"
+        ],
+        [
+            "GamePaused",
+            "Game Paused"
+        ],
+        [
+            "RemoveAds",
+            "Remove Ads"
+        ],
+        [
+            "Purchase",
+            "Purchase"
+        ],
+        [
+            "Unlocked",
+            "Unlocked!"
+        ],
+        [
+            "LevelCompleted",
+            "Level Completed!"
+        ],
+        [
+            "Editor",
+            "Editor"
+        ],
+        [
+            "Next",
+            "Next"
+        ],
+        [
+            "Replay",
+            "Replay"
+        ],
+        [
+            "Steps",
+            "Steps"
+        ],
+        [
+            "Best",
+            "Best"
+        ],
+        [
+            "Time",
+            "Time"
+        ],
+        [
+            "Restoring",
+            "Restoring..."
+        ],
+        [
+            "RestoreFinished",
+            "Restore Finished"
+        ],
+        [
+            "Success",
+            "Success"
+        ],
+        [
+            "Failure",
+            "Failure"
+        ],
+        [
+            "RestorePurchases",
+            "Restore Purchases"
+        ],
+        [
+            "Boxes",
+            "Boxes"
+        ],
+        [
+            "CustomLevel",
+            "Custom Level"
+        ],
+        [
+            "PurchasedNote",
+            "Purchase confirmed!"
+        ]
+    ]
+}

@@ -1,0 +1,98 @@
+{
+  "buildItems": [
+    {
+      "column": 1,
+      "row": 2,
+      "itemType": "Player"
+    },
+    {
+      "column": 2,
+      "row": 0,
+      "markerType": 1
+    },
+    {
+      "column": 2,
+      "row": 1,
+      "boxType": 1
+    },
+    {
+      "column": 3,
+      "row": 2,
+      "boxType": 1
+    },
+    {
+      "column": 4,
+      "row": 2,
+      "markerType": 1
+    }
+  ],
+  "missingGround": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 0,
+      "y": 1
+    },
+    {
+      "x": 0,
+      "y": 3
+    },
+    {
+      "x": 1,
+      "y": 0
+    },
+    {
+      "x": 1,
+      "y": 1
+    },
+    {
+      "x": 3,
+      "y": 0
+    },
+    {
+      "x": 3,
+      "y": 1
+    },
+    {
+      "x": 3,
+      "y": 3
+    },
+    {
+      "x": 4,
+      "y": 0
+    },
+    {
+      "x": 4,
+      "y": 1
+    },
+    {
+      "x": 4,
+      "y": 3
+    }
+  ],
+  "columns": 5,
+  "rows": 4,
+  "sourceType": 0,
+  "authorDeviceIdentifier": "84cdace88b40264d699fe5524840b0018ba611e8",
+  "completionMovementHistory": [
+    {
+      "movementType": 1,
+      "timeMs": 1772
+    },
+    {
+      "movementType": 1,
+      "timeMs": 5118
+    },
+    {
+      "movementType": 3,
+      "timeMs": 5609
+    },
+    {
+      "movementType": 0,
+      "timeMs": 5905
+    }
+  ],
+  "localIdentifier": "9a0a58e0-66c0-495e-ae29-820aee4c769e"
+}

@@ -1,0 +1,111 @@
+{
+  "levelData": {
+    "buildItems": [
+      {
+        "column": 0,
+        "row": 2,
+        "itemType": "Player"
+      },
+      {
+        "column": 2,
+        "row": 2,
+        "boxType": 1
+      },
+      {
+        "column": 3,
+        "row": 2,
+        "boxType": 2
+      },
+      {
+        "column": 4,
+        "row": 2,
+        "markerType": 1
+      }
+    ],
+    "missingGround": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 3
+      },
+      {
+        "x": 0,
+        "y": 4
+      },
+      {
+        "x": 1,
+        "y": 4
+      },
+      {
+        "x": 3,
+        "y": 0
+      },
+      {
+        "x": 4,
+        "y": 0
+      }
+    ],
+    "columns": 5,
+    "rows": 5,
+    "sourceType": 0,
+    "authorDeviceIdentifier": "84cdace88b40264d699fe5524840b0018ba611e8",
+    "localIdentifier": "403b4fad-b352-41ec-995a-876eb6b5a11d"
+  },
+  "levelMetaData": {
+    "createdAtDate": "2019-06-14T12:38:13.5674299-07:00",
+    "lastPlayedDate": "2019-06-14T12:38:22.184776-07:00",
+    "bestCompletionMs": 7608,
+    "bestCompletionDate": "2019-06-14T12:38:22.184776-07:00",
+    "firstCompletionDate": "2019-06-14T12:38:22.184776-07:00",
+    "completionMovementHistory": [
+      {
+        "movementType": 1,
+        "timeMs": 2614
+      },
+      {
+        "movementType": 0,
+        "timeMs": 3160
+      },
+      {
+        "movementType": 1,
+        "timeMs": 3984
+      },
+      {
+        "movementType": 2,
+        "timeMs": 4486
+      },
+      {
+        "movementType": 3,
+        "timeMs": 5097
+      },
+      {
+        "movementType": 2,
+        "timeMs": 5374
+      },
+      {
+        "movementType": 1,
+        "timeMs": 5829
+      },
+      {
+        "movementType": 1,
+        "timeMs": 6352
+      },
+      {
+        "movementType": 2,
+        "timeMs": 6884
+      },
+      {
+        "movementType": 1,
+        "timeMs": 7265
+      },
+      {
+        "movementType": 0,
+        "timeMs": 7608
+      }
+    ],
+    "localIdentifier": "403b4fad-b352-41ec-995a-876eb6b5a11d"
+  }
+}

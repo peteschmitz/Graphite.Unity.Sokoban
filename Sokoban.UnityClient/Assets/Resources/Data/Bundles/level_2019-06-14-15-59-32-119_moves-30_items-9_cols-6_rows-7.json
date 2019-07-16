@@ -1,0 +1,244 @@
+{
+  "levelData": {
+    "buildItems": [
+      {
+        "column": 0,
+        "row": 4,
+        "markerType": 1
+      },
+      {
+        "column": 1,
+        "row": 2,
+        "markerType": 0
+      },
+      {
+        "column": 1,
+        "row": 3,
+        "boxType": 1
+      },
+      {
+        "column": 2,
+        "row": 1,
+        "itemType": "Player"
+      },
+      {
+        "column": 3,
+        "row": 2,
+        "boxType": 2
+      },
+      {
+        "column": 4,
+        "row": 1,
+        "boxType": 0
+      },
+      {
+        "column": 4,
+        "row": 4,
+        "boxType": 0
+      },
+      {
+        "column": 4,
+        "row": 5,
+        "boxType": 2
+      },
+      {
+        "column": 5,
+        "row": 3,
+        "markerType": 0
+      }
+    ],
+    "missingGround": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 0,
+        "y": 2
+      },
+      {
+        "x": 0,
+        "y": 3
+      },
+      {
+        "x": 0,
+        "y": 5
+      },
+      {
+        "x": 0,
+        "y": 6
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 6
+      },
+      {
+        "x": 2,
+        "y": 0
+      },
+      {
+        "x": 2,
+        "y": 6
+      },
+      {
+        "x": 5,
+        "y": 0
+      },
+      {
+        "x": 5,
+        "y": 1
+      },
+      {
+        "x": 5,
+        "y": 2
+      }
+    ],
+    "columns": 6,
+    "rows": 7,
+    "sourceType": 0,
+    "authorDeviceIdentifier": "84cdace88b40264d699fe5524840b0018ba611e8",
+    "localIdentifier": "752ec4b6-3f0f-4768-9cfa-13befe5cd835"
+  },
+  "levelMetaData": {
+    "createdAtDate": "2019-06-14T15:59:12.606674-07:00",
+    "lastPlayedDate": "2019-06-14T15:59:26.2060003-07:00",
+    "bestCompletionMs": 12381,
+    "bestCompletionDate": "2019-06-14T15:59:26.2060003-07:00",
+    "firstCompletionDate": "2019-06-14T15:59:26.2060003-07:00",
+    "completionMovementHistory": [
+      {
+        "movementType": 1,
+        "timeMs": 3073
+      },
+      {
+        "movementType": 0,
+        "timeMs": 3270
+      },
+      {
+        "movementType": 1,
+        "timeMs": 3606
+      },
+      {
+        "movementType": 2,
+        "timeMs": 4020
+      },
+      {
+        "movementType": 3,
+        "timeMs": 4397
+      },
+      {
+        "movementType": 3,
+        "timeMs": 4660
+      },
+      {
+        "movementType": 2,
+        "timeMs": 4843
+      },
+      {
+        "movementType": 2,
+        "timeMs": 5015
+      },
+      {
+        "movementType": 1,
+        "timeMs": 5285
+      },
+      {
+        "movementType": 1,
+        "timeMs": 5551
+      },
+      {
+        "movementType": 3,
+        "timeMs": 5907
+      },
+      {
+        "movementType": 3,
+        "timeMs": 6579
+      },
+      {
+        "movementType": 0,
+        "timeMs": 6759
+      },
+      {
+        "movementType": 3,
+        "timeMs": 7136
+      },
+      {
+        "movementType": 2,
+        "timeMs": 7472
+      },
+      {
+        "movementType": 1,
+        "timeMs": 7953
+      },
+      {
+        "movementType": 1,
+        "timeMs": 8221
+      },
+      {
+        "movementType": 2,
+        "timeMs": 8390
+      },
+      {
+        "movementType": 2,
+        "timeMs": 8565
+      },
+      {
+        "movementType": 2,
+        "timeMs": 8737
+      },
+      {
+        "movementType": 1,
+        "timeMs": 9002
+      },
+      {
+        "movementType": 1,
+        "timeMs": 9270
+      },
+      {
+        "movementType": 0,
+        "timeMs": 9454
+      },
+      {
+        "movementType": 0,
+        "timeMs": 10167
+      },
+      {
+        "movementType": 3,
+        "timeMs": 10431
+      },
+      {
+        "movementType": 3,
+        "timeMs": 11151
+      },
+      {
+        "movementType": 3,
+        "timeMs": 11422
+      },
+      {
+        "movementType": 2,
+        "timeMs": 11636
+      },
+      {
+        "movementType": 3,
+        "timeMs": 11972
+      },
+      {
+        "movementType": 0,
+        "timeMs": 12213
+      }
+    ],
+    "localIdentifier": "752ec4b6-3f0f-4768-9cfa-13befe5cd835"
+  }
+}

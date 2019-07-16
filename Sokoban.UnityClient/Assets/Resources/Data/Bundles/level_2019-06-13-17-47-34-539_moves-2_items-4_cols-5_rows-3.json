@@ -1,0 +1,46 @@
+{
+    "levelData": {
+        "buildItems": [
+            {
+                "column": 1,
+                "row": 1,
+                "itemType": "Player"
+            },
+            {
+                "column": 2,
+                "row": 1,
+                "boxType": 1
+            },
+            {
+                "column": 4,
+                "row": 1,
+                "markerType": 1
+            }
+        ],
+        "missingGround": [],
+        "columns": 5,
+        "rows": 3,
+        "sourceType": 0,
+        "authorDeviceIdentifier": "84cdace88b40264d699fe5524840b0018ba611e8",
+        "localIdentifier": "80d072a9-2820-4037-b4ea-ebe2d8ed7d30"
+    },
+    "levelMetaData": {
+        "createdAtDate": "2019-06-13T17:47:26.2682663-07:00",
+        "lastPlayedDate": "2019-06-13T17:47:29.3580675-07:00",
+        "bestCompletionMs": 2728,
+        "bestCompletionDate": "2019-06-13T17:47:29.3580675-07:00",
+        "firstCompletionDate": "2019-06-13T17:47:29.3580675-07:00",
+        "completionMovementHistory": [
+            {
+                "movementType": 1,
+                "timeMs": 2139
+            },
+            {
+                "movementType": 1,
+                "timeMs": 2728
+            }
+        ],
+        "localIdentifier": "80d072a9-2820-4037-b4ea-ebe2d8ed7d30"
+    },
+    "PostfixString": "moves-2_items-4_cols-5_rows-3"
+}

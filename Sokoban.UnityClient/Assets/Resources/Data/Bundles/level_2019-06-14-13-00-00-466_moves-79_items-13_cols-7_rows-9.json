@@ -1,0 +1,464 @@
+{
+  "levelData": {
+    "buildItems": [
+      {
+        "column": 2,
+        "row": 4,
+        "boxType": 2
+      },
+      {
+        "column": 2,
+        "row": 5,
+        "markerType": 1
+      },
+      {
+        "column": 2,
+        "row": 6,
+        "markerType": 1
+      },
+      {
+        "column": 2,
+        "row": 7,
+        "boxType": 1
+      },
+      {
+        "column": 3,
+        "row": 1,
+        "boxType": 1
+      },
+      {
+        "column": 3,
+        "row": 2,
+        "boxType": 1
+      },
+      {
+        "column": 3,
+        "row": 6,
+        "boxType": 2
+      },
+      {
+        "column": 4,
+        "row": 2,
+        "boxType": 1
+      },
+      {
+        "column": 4,
+        "row": 3,
+        "boxType": 2
+      },
+      {
+        "column": 4,
+        "row": 6,
+        "markerType": 1
+      },
+      {
+        "column": 5,
+        "row": 5,
+        "markerType": 1
+      },
+      {
+        "column": 5,
+        "row": 6,
+        "boxType": 2
+      },
+      {
+        "column": 6,
+        "row": 3,
+        "itemType": "Player"
+      }
+    ],
+    "missingGround": [
+      {
+        "x": 0,
+        "y": 0
+      },
+      {
+        "x": 0,
+        "y": 1
+      },
+      {
+        "x": 0,
+        "y": 2
+      },
+      {
+        "x": 0,
+        "y": 3
+      },
+      {
+        "x": 0,
+        "y": 7
+      },
+      {
+        "x": 0,
+        "y": 8
+      },
+      {
+        "x": 1,
+        "y": 0
+      },
+      {
+        "x": 1,
+        "y": 1
+      },
+      {
+        "x": 1,
+        "y": 8
+      },
+      {
+        "x": 5,
+        "y": 0
+      },
+      {
+        "x": 5,
+        "y": 1
+      },
+      {
+        "x": 6,
+        "y": 0
+      },
+      {
+        "x": 6,
+        "y": 1
+      },
+      {
+        "x": 6,
+        "y": 2
+      },
+      {
+        "x": 6,
+        "y": 8
+      }
+    ],
+    "columns": 7,
+    "rows": 9,
+    "sourceType": 0,
+    "authorDeviceIdentifier": "84cdace88b40264d699fe5524840b0018ba611e8",
+    "localIdentifier": "734d289d-62ec-4433-9c3e-b02d8dd24cd6"
+  },
+  "levelMetaData": {
+    "createdAtDate": "2019-06-14T12:59:04.3072872-07:00",
+    "lastPlayedDate": "2019-06-14T12:59:53.4792-07:00",
+    "bestCompletionMs": 43704,
+    "bestCompletionDate": "2019-06-14T12:59:53.4792-07:00",
+    "firstCompletionDate": "2019-06-14T12:59:53.4792-07:00",
+    "completionMovementHistory": [
+      {
+        "movementType": 2,
+        "timeMs": 2655
+      },
+      {
+        "movementType": 3,
+        "timeMs": 2906
+      },
+      {
+        "movementType": 3,
+        "timeMs": 3162
+      },
+      {
+        "movementType": 3,
+        "timeMs": 3419
+      },
+      {
+        "movementType": 0,
+        "timeMs": 3581
+      },
+      {
+        "movementType": 3,
+        "timeMs": 3886
+      },
+      {
+        "movementType": 0,
+        "timeMs": 4051
+      },
+      {
+        "movementType": 0,
+        "timeMs": 4213
+      },
+      {
+        "movementType": 0,
+        "timeMs": 4379
+      },
+      {
+        "movementType": 1,
+        "timeMs": 4703
+      },
+      {
+        "movementType": 1,
+        "timeMs": 4954
+      },
+      {
+        "movementType": 2,
+        "timeMs": 5361
+      },
+      {
+        "movementType": 3,
+        "timeMs": 5987
+      },
+      {
+        "movementType": 2,
+        "timeMs": 12040
+      },
+      {
+        "movementType": 2,
+        "timeMs": 12206
+      },
+      {
+        "movementType": 2,
+        "timeMs": 12374
+      },
+      {
+        "movementType": 0,
+        "timeMs": 12742
+      },
+      {
+        "movementType": 0,
+        "timeMs": 12903
+      },
+      {
+        "movementType": 0,
+        "timeMs": 13073
+      },
+      {
+        "movementType": 0,
+        "timeMs": 13244
+      },
+      {
+        "movementType": 3,
+        "timeMs": 13499
+      },
+      {
+        "movementType": 2,
+        "timeMs": 13766
+      },
+      {
+        "movementType": 2,
+        "timeMs": 13929
+      },
+      {
+        "movementType": 3,
+        "timeMs": 22145
+      },
+      {
+        "movementType": 2,
+        "timeMs": 22306
+      },
+      {
+        "movementType": 2,
+        "timeMs": 22472
+      },
+      {
+        "movementType": 2,
+        "timeMs": 22639
+      },
+      {
+        "movementType": 1,
+        "timeMs": 22890
+      },
+      {
+        "movementType": 1,
+        "timeMs": 23149
+      },
+      {
+        "movementType": 1,
+        "timeMs": 23405
+      },
+      {
+        "movementType": 0,
+        "timeMs": 25051
+      },
+      {
+        "movementType": 1,
+        "timeMs": 25323
+      },
+      {
+        "movementType": 0,
+        "timeMs": 25488
+      },
+      {
+        "movementType": 0,
+        "timeMs": 25654
+      },
+      {
+        "movementType": 3,
+        "timeMs": 25963
+      },
+      {
+        "movementType": 0,
+        "timeMs": 26166
+      },
+      {
+        "movementType": 3,
+        "timeMs": 26421
+      },
+      {
+        "movementType": 2,
+        "timeMs": 26871
+      },
+      {
+        "movementType": 2,
+        "timeMs": 27033
+      },
+      {
+        "movementType": 2,
+        "timeMs": 27194
+      },
+      {
+        "movementType": 0,
+        "timeMs": 28549
+      },
+      {
+        "movementType": 3,
+        "timeMs": 28872
+      },
+      {
+        "movementType": 0,
+        "timeMs": 29286
+      },
+      {
+        "movementType": 3,
+        "timeMs": 29574
+      },
+      {
+        "movementType": 2,
+        "timeMs": 29944
+      },
+      {
+        "movementType": 2,
+        "timeMs": 30106
+      },
+      {
+        "movementType": 3,
+        "timeMs": 30820
+      },
+      {
+        "movementType": 2,
+        "timeMs": 31331
+      },
+      {
+        "movementType": 2,
+        "timeMs": 31493
+      },
+      {
+        "movementType": 1,
+        "timeMs": 31771
+      },
+      {
+        "movementType": 1,
+        "timeMs": 32030
+      },
+      {
+        "movementType": 0,
+        "timeMs": 32849
+      },
+      {
+        "movementType": 1,
+        "timeMs": 33155
+      },
+      {
+        "movementType": 0,
+        "timeMs": 33547
+      },
+      {
+        "movementType": 1,
+        "timeMs": 33801
+      },
+      {
+        "movementType": 2,
+        "timeMs": 33969
+      },
+      {
+        "movementType": 3,
+        "timeMs": 35296
+      },
+      {
+        "movementType": 3,
+        "timeMs": 35551
+      },
+      {
+        "movementType": 2,
+        "timeMs": 35824
+      },
+      {
+        "movementType": 3,
+        "timeMs": 36142
+      },
+      {
+        "movementType": 3,
+        "timeMs": 36819
+      },
+      {
+        "movementType": 0,
+        "timeMs": 36985
+      },
+      {
+        "movementType": 1,
+        "timeMs": 37342
+      },
+      {
+        "movementType": 0,
+        "timeMs": 40237
+      },
+      {
+        "movementType": 0,
+        "timeMs": 40402
+      },
+      {
+        "movementType": 1,
+        "timeMs": 40654
+      },
+      {
+        "movementType": 1,
+        "timeMs": 40909
+      },
+      {
+        "movementType": 2,
+        "timeMs": 41076
+      },
+      {
+        "movementType": 1,
+        "timeMs": 41326
+      },
+      {
+        "movementType": 1,
+        "timeMs": 41588
+      },
+      {
+        "movementType": 1,
+        "timeMs": 41853
+      },
+      {
+        "movementType": 2,
+        "timeMs": 42020
+      },
+      {
+        "movementType": 2,
+        "timeMs": 42186
+      },
+      {
+        "movementType": 2,
+        "timeMs": 42353
+      },
+      {
+        "movementType": 3,
+        "timeMs": 42606
+      },
+      {
+        "movementType": 3,
+        "timeMs": 42865
+      },
+      {
+        "movementType": 3,
+        "timeMs": 43124
+      },
+      {
+        "movementType": 2,
+        "timeMs": 43286
+      },
+      {
+        "movementType": 3,
+        "timeMs": 43541
+      }
+    ],
+    "localIdentifier": "734d289d-62ec-4433-9c3e-b02d8dd24cd6"
+  }
+}
